@@ -1,3 +1,7 @@
+<div align="center">
+</div>
+
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=cisjoe&right_color=transparent&left_color=transparent" alt="cisjoe">
 
 <h1 align="center">
@@ -7,5 +11,22 @@
 </h1>
 
 <div align="center">
-<h3>About me</h3>
+  <h3>About me</h3>
+  <img src="/imgs/anglebr.gif" height="60px"/>
+</div>
+
+<!-- <img src="/imgs/geometric.gif" height="300px"/> -->
+
+<p align="center" >
+  I'm Joe, Web Developer.
+  <br>
+  I like coding, soccer and books.
+  <br>
+  And I make creative & unique things with my thoughts
+</p>
+
+---
+
+<div align="center">
+  <h3 style="color:red;" > My Hommies</h3>
 </div>
