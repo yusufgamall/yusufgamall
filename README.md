@@ -31,9 +31,9 @@
   <h3 style="color:red;" > My Hommies</h3>
 </div>
 
-<code>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-</code>
+<div align="center">
+  <code><img title="Visual Studio Code" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
+</div>
 
 
 
