@@ -30,3 +30,9 @@
 <div align="center">
   <h3 style="color:red;" > My Hommies</h3>
 </div>
+
+![Snake animation](https://github.com/cisjoe/cisjoe/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
