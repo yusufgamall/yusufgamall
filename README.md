@@ -16,8 +16,6 @@
   <img src="media/wguy.gif" height="100px"/>
 </div>
 
-<!-- <img src="/imgs/geometric.gif" height="300px"/> -->
-
 <p align="center" >
   I'm Joe, Web Developer.
   <br>
@@ -52,9 +50,9 @@
 
 <div align="center">
   <img src="media/clr_geometric.gif" height="120px"/>
-  <img src="media/transparent.png" width="200px" height="1px"/> 
+  <img src="media/transparent.png" width="150px" height="1px"/> 
   <img src="media/hguy.gif" height="120px"/>
-  <img src="media/transparent.png" width="200px" height="1px"/>
+  <img src="media/transparent.png" width="150px" height="1px"/>
   <img src="media/clr_geometric.gif" height="120px"/>
 </div>
 
