@@ -1,12 +1,11 @@
 <div align="center">
 </div>
 
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=cisjoe&right_color=transparent&left_color=transparent" alt="cisjoe">
 
 <h1 align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Unbounded&size=26&duration=3300&pause=200&color=D93A7C&center=true&vCenter=true&width=500&lines=Hey+dude!;Make+yourself+at+home+%3C3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Berkshire+Swash&size=30&duration=3300&pause=200&color=D93A7C&center=true&vCenter=true&width=500&lines=Hey+dude!;Make+yourself+at+home+%3C3" alt="Typing SVG" />
   </a>
   <!-- old clr 950101 -->
 </h1>
