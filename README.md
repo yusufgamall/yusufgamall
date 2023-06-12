@@ -5,7 +5,7 @@
 
 <h1 align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Berkshire+Swash&size=30&duration=3300&pause=200&color=DC143C&center=true&vCenter=true&width=500&lines=Hey+dude!;Make+yourself+at+home+%3C3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Berkshire+Swash&size=30&duration=3300&pause=200&color=00F5FF&center=true&vCenter=true&width=500&lines=Hey+dude!;Make+yourself+at+home+%3C3" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -57,12 +57,12 @@
 
 <div align="center">
   <a href="https://github.com/cisjoe/">
-      <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cisjoe&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=DC143C&text_color=ffffff&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cisjoe&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=00F5FF&text_color=ffffff&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=cisjoe&show_icons=true&theme=radical&bg_color=0D1117&title_color=DC143C&hide_border=true"  width=400  ></img>
+   <img src="https://github-readme-stats.vercel.app/api?username=cisjoe&show_icons=true&theme=radical&bg_color=0D1117&title_color=00F5FF&hide_border=true"  width=400  ></img>
 </div>
 
 
