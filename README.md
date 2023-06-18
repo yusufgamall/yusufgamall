@@ -10,7 +10,7 @@
 </h1>
 
 <div align="center">
-  <h3>About me</h3>
+  <h3>About Me</h3>
   <img src="media/wguy.gif" height="100px"/>
 </div>
 
@@ -35,10 +35,13 @@
   <code><img title="CSS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
   <code><img title="JAVASCRIPT" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
   <code><img title="REACT JS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
+  <code><img title="REDUX" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></code>
   <code><img title="SASS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></code>
+  <code><img title="TAILWIND CSS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></code>
   <code><img title="BOOTSTRAP" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></code>
   <code><img title="GIT" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
   <code><img title="GITHUB" height="25" src="media/github.svg" /></code>
+  <code><img title="FIGMA" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></code>
 </div>
 
 ---
