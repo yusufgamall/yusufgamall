@@ -43,6 +43,7 @@
   <code><img title="GIT" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
   <code><img title="GITHUB" height="25" src="media/github.svg" /></code>
   <code><img title="FIGMA" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></code>
+  <code><img title="GSAP" height="25" src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" /></code>
 </div>
 
 ---
