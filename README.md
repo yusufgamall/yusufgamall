@@ -40,6 +40,7 @@
   <code><img title="SASS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></code>
   <code><img title="TAILWIND CSS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></code>
   <code><img title="BOOTSTRAP" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></code>
+  <code><img title="NODE JS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
   <code><img title="GIT" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
   <code><img title="GITHUB" height="25" src="media/github.svg" /></code>
   <code><img title="FIGMA" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></code>
