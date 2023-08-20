@@ -42,6 +42,7 @@
   <code><img title="BOOTSTRAP" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></code>
   <code><img title="THREE JS" height="25" src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" /></code>
   <code><img title="NODE JS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
+  <code><img title="EXPRESS JS" height="25" src="media/express.svg" /></code>
   <code><img title="GIT" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
   <code><img title="GITHUB" height="25" src="media/github.svg" /></code>
   <code><img title="FIGMA" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></code>
