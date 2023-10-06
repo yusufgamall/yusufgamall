@@ -15,11 +15,11 @@
 </div>
 
 <p align="center" >
-  I'm Joe, Web Developer.
+  I'm Joe, a Creative Developer.
   <br>
-  I like coding, soccer and books.
+  I like coding, soccer, and books.
   <br>
-  And I make creative & unique things with my thoughts. 
+  And I make creative & unique things.
 </p>
 
 ---
