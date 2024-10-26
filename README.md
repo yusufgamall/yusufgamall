@@ -45,6 +45,7 @@
   <code><img title="NODE JS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
   <code><img title="EXPRESS JS" height="25" src="media/express.svg" /></code>
   <code><img title="MONGODB" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></code>
+  <code><img title="PHP" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /></code>
   <code><img title="MYSQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></code>
   <code><img title="WORDPRESS" height="25" src="https://cdn-icons-png.flaticon.com/512/174/174881.png" /></code>
   <code><img title="WOOCOMMERCE" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" /></code>
