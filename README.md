@@ -10,12 +10,12 @@
 </h1>
 
 <div align="center">
-  <h3>About Me</h3>
+  <h3>Who Am I?</h3>
   <img src="media/wguy.gif" height="100px"/>
 </div>
 
 <p align="center" >
-  I'm Joe
+  I'm Yusuf
   <br>
   A meticulous developer
   <br>
@@ -42,7 +42,7 @@
   <code><img title="SASS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></code>
   <code><img title="TAILWIND CSS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" /></code>
   <code><img title="BOOTSTRAP" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></code>
-  <code><img title="THREE JS" height="25" src="https://global.discourse-cdn.com/flex035/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" /></code>
+  <code><img title="THREE JS" height="25" src="https://canada1.discourse-cdn.com/flex035/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" /></code>
   <br /> <br />
   <code><img title="NODE JS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
   <code><img title="EXPRESS JS" height="25" src="media/express.svg" /></code>
@@ -59,7 +59,7 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <h3>Stats</h3>
 </div>
 
@@ -79,7 +79,7 @@
 
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=yusufgamall&show_icons=true&theme=radical&bg_color=0D1117&title_color=00F5FF&hide_border=true"  width=400  ></img>
-</div>
+</div> -->
 
 
 
