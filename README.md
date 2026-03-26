@@ -19,7 +19,7 @@
   <br>
   A meticulous developer
   <br>
-  obsessed with coding, who likes reading and creativity.
+  obsessed with coding and creativity.
 </p>
 
 ---
